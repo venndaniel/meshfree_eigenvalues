@@ -1,4 +1,4 @@
-% Code for the Tables 13 and 14 in Subsection 4.9 (Figure 6)
+% Code for the Tables 12 and 13 in Subsection 4.9 (Figure 6)
 
 %% Problem setup
 % intially run in MATLAB R2023a
@@ -100,16 +100,16 @@ ind = length(f);
 % axis('equal');
 % hold on;
 
-%% ratio test for Tables 13 & 14
+%% ratio test for Tables 12 & 13
 N1 = 700; % smaller N for ratio
 N2 = round(10/9*N1); % larger N
 % eigenvalue to test
-%i = 56; % Table 13
-i = 156; % Table 14
+%i = 56; % Table 12
+i = 156; % Table 13
 Ff = F1 + i*F2 + i'*F2' + abs(i)^2*F3; % form Phi
 
-%muls = 14:17; % Table 13
-muls = 24:27; % Table 14
+%muls = 14:17; % Table 12
+muls = 24:27; % Table 13
 
 for mul = muls
     

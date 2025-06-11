@@ -7,7 +7,7 @@ set(groot, 'defaultLegendInterpreter','latex')
 Np = 40; % number of boundary points
 Nt = round(Np^2/4); % number of interior points
 
-% 1 for Figure 5 tests, 2 for Table 7, 3 for Table 10, 4 for Table 11
+% 1 for Figure 5 tests, 2 for Table 7, 3 for Table 9, 4 for Table 10
 test = 4; 
 
 % parameters
