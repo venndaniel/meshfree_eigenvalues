@@ -1,8 +1,9 @@
 % code for Subsection 4.2 (Laplace--Beltrami on a Sphere)
+% intially run in MATLAB R2023a, tested again in R2024b
 
 %% Problem setup
 % run this section to create the necessary matrices to run the experiments
-% intially run in MATLAB R2023a, tested again in R2024b
+
 
 Nt = 650; % number of random points on sphere
 

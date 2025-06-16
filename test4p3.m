@@ -1,11 +1,11 @@
 % code for Subsection 4.3 (Laplace--Beltrami on a Genus 2 Surface)
+% intially run in MATLAB R2023a, tested again in R2024b
 % Can run each code section separately as long as "Problem Setup" is run
 % first
 
 %% Problem Setup
 % run this section to create the necessary matrices to run the experiments
 % in the other sections
-% intially run in MATLAB R2023a
 
 Nt = 1200; % number of random points on the surface
 mul = 1; % multiplicity to test for

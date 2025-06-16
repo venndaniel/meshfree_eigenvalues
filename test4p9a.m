@@ -1,9 +1,9 @@
 % Code for the first test of Subsection 4.9 (Figure 6)
+% intially run in MATLAB R2023a, tested again in R2024b
 
 %% Problem setup
 % run this section to create the necessary matrices to run the experiments
 % in the other section
-% intially run in MATLAB R2023a
 
 Nt = 400; % number of random points on sphere
 

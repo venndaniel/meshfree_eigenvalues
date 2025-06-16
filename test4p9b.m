@@ -1,7 +1,7 @@
 % Code for the Tables 12 and 13 in Subsection 4.9 (Figure 6)
+% intially run in MATLAB R2023a, tested again in R2024b
 
 %% Problem setup
-% intially run in MATLAB R2023a
 
 Nt = 1200; % max number of points (1200 used in paper)
 mul = 27; % max multiplicity to test for

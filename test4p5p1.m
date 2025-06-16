@@ -1,4 +1,5 @@
 % Code for Subsubsection 4.5.1 (Error Estimation)
+% intially run in MATLAB R2023a, tested again in R2024b
 
 %% Problem Setup
 
